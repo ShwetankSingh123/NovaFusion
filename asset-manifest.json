@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NovaFusion/static/css/main.4c6cc9dd.css",
-    "main.js": "/NovaFusion/static/js/main.440c6e69.js",
+    "main.js": "/NovaFusion/static/js/main.9c5799ef.js",
     "static/css/215.f1176786.chunk.css": "/NovaFusion/static/css/215.f1176786.chunk.css",
     "static/js/215.7b2215d3.chunk.js": "/NovaFusion/static/js/215.7b2215d3.chunk.js",
     "static/css/462.6bfbfe7a.chunk.css": "/NovaFusion/static/css/462.6bfbfe7a.chunk.css",
@@ -51,7 +51,7 @@
     "static/media/slick.woff": "/NovaFusion/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/NovaFusion/index.html",
     "main.4c6cc9dd.css.map": "/NovaFusion/static/css/main.4c6cc9dd.css.map",
-    "main.440c6e69.js.map": "/NovaFusion/static/js/main.440c6e69.js.map",
+    "main.9c5799ef.js.map": "/NovaFusion/static/js/main.9c5799ef.js.map",
     "215.f1176786.chunk.css.map": "/NovaFusion/static/css/215.f1176786.chunk.css.map",
     "215.7b2215d3.chunk.js.map": "/NovaFusion/static/js/215.7b2215d3.chunk.js.map",
     "462.6bfbfe7a.chunk.css.map": "/NovaFusion/static/css/462.6bfbfe7a.chunk.css.map",
@@ -68,6 +68,6 @@
   },
   "entrypoints": [
     "static/css/main.4c6cc9dd.css",
-    "static/js/main.440c6e69.js"
+    "static/js/main.9c5799ef.js"
   ]
 }
